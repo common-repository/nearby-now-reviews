@@ -1,0 +1,13 @@
+.jpg, .jpg .nn-review-item {width:100%;} 
+.jpg .nn-review-detail-container, .jpg .nn-review-item, .jpg div.nn-review-rating-cat-overall {border:none !important; display: inline-block;}
+.jpg .nn-review-rating-cat {display:none;}
+.jpg .nn-review-rating-cat-overall {display:block !important; border:none;}
+.jpg .nn-review-item > div > img {display:none;}
+.jpg .nn-review-item blockquote {float: right; width: 50%;}
+.jpg .nn-review-detail-container {background-color: rgba(0, 0, 0, 0) !important; border-top: medium none; float: left; padding: 1% !important; width: 45%;}
+.jpg .nn-review-star-wrapper {max-width: 175px; width: 100% !important; overflow: hidden !important;}
+/*.jpg .nn-review-rating-cat-name {max-width:14em; width: 100% !important;}*/
+div.nn-review-star-wrapper, div.nn-review-rating-cat-name {float:none !important;}
+a.morelink {color: #0000FF !important; outline: medium none; text-decoration: none;}
+.morecontent span {display: none;}
+.comment {background-color: #f0f0f0; margin: 10px; width: 400px;}

@@ -1,0 +1,6 @@
+/** NN Reviews Widget CSS **/
+.jpg.widget .nn-review-item blockquote {
+    float: none;
+    width: 90%;
+    padding: 5%;
+}
